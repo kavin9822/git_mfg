@@ -1,6 +1,6 @@
 <?php
 
-// development1
+// development
  //ini_set('display_errors', 'On');
 // production
 

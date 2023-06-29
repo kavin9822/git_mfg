@@ -1,0 +1,9 @@
+resource/
+error_log
+.htaccess
+index.php
+ajax_fd.php
+lib/ajax/set_inc_path.php
+lib/config/config.ini
+lib/PhpRbac/database/database.config
+lib/ajax/error_log

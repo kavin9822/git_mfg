@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "meenafiberglass",
+			"path": "../gitlab_mfg/meenafiberglass"
+		}
+	],
+	"settings": {}
+}
